@@ -1,7 +1,11 @@
 # Features
 
 Create a flutter app for a blog app.
+
 [https://blog-test-6ae2d.firebaseapp.com/#/](https://blog-test-6ae2d.firebaseapp.com/#/)
+
+
+## Screen Shot
 ![alt text](https://github.com/KutuGondrong/blog/blob/main/image/Screen_Shot.jpg)
 
 ## Tech Stack
@@ -11,7 +15,6 @@ Create a flutter app for a blog app.
 - Dio
 - Json Serializable
 - Build runner
-- Cached Network Image
 
 ## Get Started
 
